@@ -8,15 +8,20 @@
       "link": "",
       "thumbnail": ""
     },
-    {
-      "title": "[I][COLOR orange]Entra nella Home[/COLOR][/I]",
-      "link": "https://www.dropbox.com/s/f5jdlw6j0s6qtnq/home.json?dl=1",
+	{
+      "title": [I][COLOR orange]TV in chiaro (By KLTV)[/COLOR][I]",
+      "link": "https://www.dropbox.com/s/f4l5ttcem09sx8b/Lista%20Kltv.json?dl=1",
       "thumbnail": "link diretto dell'immagine scelta"
     },
     {
       "title": "",
       "link": "",
       "thumbnail": ""
+    },
+	{
+      "title": "Test Torrent",
+      "link": "https://www.dropbox.com/s/386rmjdexlqsra8/Torrent.json?dl=1",
+      "thumbnail": "link diretto dell'immagine scelta"
     }
   ]
 } 
