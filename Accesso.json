@@ -22,6 +22,11 @@
       "title": "Test Torrent",
       "link": "https://www.dropbox.com/s/386rmjdexlqsra8/Torrent.json?dl=1",
       "thumbnail": "link diretto dell'immagine scelta"
+    },
+    {
+      "title": "[COLOR yellow] Refresh Page [/COLOR]",
+      "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Accesso.json",
+      "thumbnail": ""
     }
   ]
 } 
