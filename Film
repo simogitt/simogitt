@@ -11,11 +11,11 @@
       ]
     },
     {
-      "title": "",
+      "title": "test torrent",
       "year": "",
       "links": [
         {
-          "url": "",
+          "url": "magnet:?xt=urn:sha1:bddfa7dcee181b0b681dff23af35fab85dad7b3f",
           "quality":"720"
         },
         {
