@@ -6,21 +6,21 @@
       "links": [
         {
           "url": "plugin://plugin.video.youtube/play/?playlist_id=PLDs-H6Q4jRpOvNl3KvIsUcQuSl-5psmyw",
-          "quality":"720"
+          "quality":""
         }
       ]
     },
     {
-      "title": "",
+      "title": "Sunday Morning Soul",
       "year": "",
       "links": [
         {
-          "url": "",
-          "quality":"720"
+          "url": "plugin://plugin.video.youtube/play/?playlist_id=PLydtS7bK5za0vfoQNdLSURvZLKJdN1kmT",
+          "quality":""
         },
         {
           "url": "",
-          "quality":"FHD"
+          "quality":""
         }
       ]
     }
