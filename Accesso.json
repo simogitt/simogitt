@@ -19,11 +19,6 @@
       "thumbnail": ""
     },   
     {
-      "title": "[I][COLOR orange]TV in chiaro (By KLTV)[/COLOR][/I]",
-      "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Live%20Channel%20KLTV",
-      "thumbnail": "link diretto dell'immagine scelta"
-    },
-    {
       "title": " ",
       "link": "",
       "thumbnail": ""
@@ -36,11 +31,6 @@
     {
       "title": " ",
       "link": "",
-      "thumbnail": ""
-    },  
-    {
-      "title": "[COLOR yellow] Refresh Page [/COLOR]",
-      "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Accesso.json",
       "thumbnail": ""
     }
   ]
