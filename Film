@@ -11,12 +11,11 @@
       ]
     },
     {
-      "title": "test torrent",
-      "year": "",
-      "tmdb_id": 533444,
+      "title": "test youtube playlist",
+      "year": ""
       "links": [
         {
-          "url": "magnet:?xt=urn:sha1:bddfa7dcee181b0b681dff23af35fab85dad7b3f",
+          "url": "plugin://plugin.video.youtube/play/?playlist_id=$PLDs-H6Q4jRpOvNl3KvIsUcQuSl-5psmyw",
           "quality":"720"
         },
         {
