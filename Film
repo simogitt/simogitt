@@ -13,6 +13,7 @@
     {
       "title": "test torrent",
       "year": "",
+      "tmdb_id": 533444,
       "links": [
         {
           "url": "magnet:?xt=urn:sha1:bddfa7dcee181b0b681dff23af35fab85dad7b3f",
