@@ -9,20 +9,6 @@
           "quality":"FullHD"
         }
       ]
-    },
-    {
-      "title": "",
-      "year": "",
-      "links": [
-        {
-          "url": "",
-          "quality":"720"
-        },
-        {
-          "url": "",
-          "quality":"FHD"
-        }
-      ]
     }
   ]
 }
