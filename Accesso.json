@@ -4,11 +4,21 @@
   "thumbnail": "link diretto dell'immagine scelta",
   "menu": [
     {
-      "title": "",
+      "title": " ",
       "link": "",
       "thumbnail": ""
     },
-	{
+    {
+      "title": "[I][COLOR lime]Simone [COLOR white]Community [COLOR red]Channel[/COLOR][/I]",
+      "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Live%20Channel%20KLTV",
+      "thumbnail": "link diretto dell'immagine scelta"
+    },
+    {
+      "title": " ",
+      "link": "",
+      "thumbnail": ""
+    },   
+    {
       "title": "[I][COLOR orange]TV in chiaro (By KLTV)[/COLOR][/I]",
       "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Live%20Channel%20KLTV",
       "thumbnail": "link diretto dell'immagine scelta"
@@ -18,11 +28,16 @@
       "link": "",
       "thumbnail": ""
     },
-	{
+    {
       "title": "Test Film",
       "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Film",
       "thumbnail": "link diretto dell'immagine scelta"
     },
+    {
+      "title": " ",
+      "link": "",
+      "thumbnail": ""
+    },  
     {
       "title": "[COLOR yellow] Refresh Page [/COLOR]",
       "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Accesso.json",
