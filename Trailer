@@ -11,11 +11,11 @@
       ]
     },
     {
-      "title": "Sunday Morning Soul",
+      "title": "Video Youtube singolo",
       "year": "",
       "links": [
         {
-          "url": "plugin://plugin.video.youtube/play/?playlist_id=PLydtS7bK5za0vfoQNdLSURvZLKJdN1kmT",
+          "url": "plugin://plugin.video.youtube/play/?video_id=xKiCncf3BL0&t=6s",
           "quality":""
         },
         {
