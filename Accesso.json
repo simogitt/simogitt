@@ -14,13 +14,13 @@
       "thumbnail": "link diretto dell'immagine scelta"
     },
     {
-      "title": "",
+      "title": " ",
       "link": "",
       "thumbnail": ""
     },
 	{
       "title": "Test Torrent",
-      "link": "https://www.dropbox.com/s/386rmjdexlqsra8/Torrent.json?dl=1",
+      "link": "https://raw.githubusercontent.com/simogitt/simogitt/main/Torrent",
       "thumbnail": "link diretto dell'immagine scelta"
     },
     {
