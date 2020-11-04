@@ -1,0 +1,28 @@
+{
+  "movies_list": [
+    {
+      "title": "test playlist youtube",
+      "year": "",
+      "links": [
+        {
+          "url": "plugin://plugin.video.youtube/play/?playlist_id=$PLDs-H6Q4jRpOvNl3KvIsUcQuSl-5psmyw",
+          "quality":"720"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "year": "",
+      "links": [
+        {
+          "url": "",
+          "quality":"720"
+        },
+        {
+          "url": "",
+          "quality":"FHD"
+        }
+      ]
+    }
+  ]
+}
