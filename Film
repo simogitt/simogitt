@@ -1,11 +1,11 @@
 {
   "movies_list": [
     {
-      "title": "Waves - Le Onde Della Vita",
-      "year": "2019",
+      "title": "test video",
+      "year": "",
       "links": [
         {
-          "url": "magnet:?xt=urn:sha1:bddfa7dcee181b0b681dff23af35fab85dad7b3f",
+          "url": "https://wmax03.fastcdn.stream/hls/lnholj5wft5ee35huvmkcmnylovzkzwvbffwdp7diul2a2fxr6joqv7wqtkq/index-v1-a1.m3u8",
           "quality":"720"
         }
       ]
@@ -26,4 +26,3 @@
     }
   ]
 }
-
