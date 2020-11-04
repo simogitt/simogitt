@@ -1,15 +1,29 @@
 {
-"movies_list": [
+  "movies_list": [
     {
       "title": "Waves - Le Onde Della Vita",
       "year": "2019",
-      "tmdb_id": "533444"
       "links": [
         {
           "url": "magnet:?xt=urn:sha1:bddfa7dcee181b0b681dff23af35fab85dad7b3f",
-          "quality":"FullHD"
+          "quality":"720"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "year": "",
+      "links": [
+        {
+          "url": "",
+          "quality":"720"
+        },
+        {
+          "url": "",
+          "quality":"FHD"
         }
       ]
     }
   ]
 }
+
